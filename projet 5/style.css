@@ -1,0 +1,28 @@
+.hero-section {
+    background: url('alfredo.jpg') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.menu-item img {
+    width: 100%;
+    height: auto;
+}
+.about-section img {
+    width: 100%;
+    height: auto;
+}
+.footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
